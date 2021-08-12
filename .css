@@ -1,0 +1,23 @@
+>script>
+        .contenedor{
+           display: inline-flex;
+        }
+        .cuadrado{
+            height: 50px;
+            width: 50px;
+        }
+        .rojo{
+            background-color: red;
+            }
+        .azul{
+            background-color: blue;
+        }
+        .verde{
+            background-color: green;
+        }
+        .p{
+            display: flex;
+            background-color: violet;
+        }
+
+    </script>
